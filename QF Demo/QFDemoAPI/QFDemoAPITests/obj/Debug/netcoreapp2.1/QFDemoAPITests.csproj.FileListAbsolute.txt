@@ -1,0 +1,17 @@
+C:\Projects\QFDemoAPI\QFDemoAPITests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Projects\QFDemoAPI\QFDemoAPITests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Projects\QFDemoAPI\QFDemoAPITests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Projects\QFDemoAPI\QFDemoAPITests\bin\Debug\netcoreapp2.1\QFDemoAPITests.deps.json
+C:\Projects\QFDemoAPI\QFDemoAPITests\bin\Debug\netcoreapp2.1\QFDemoAPITests.runtimeconfig.json
+C:\Projects\QFDemoAPI\QFDemoAPITests\bin\Debug\netcoreapp2.1\QFDemoAPITests.runtimeconfig.dev.json
+C:\Projects\QFDemoAPI\QFDemoAPITests\bin\Debug\netcoreapp2.1\QFDemoAPITests.dll
+C:\Projects\QFDemoAPI\QFDemoAPITests\bin\Debug\netcoreapp2.1\QFDemoAPI.dll
+C:\Projects\QFDemoAPI\QFDemoAPITests\bin\Debug\netcoreapp2.1\QFDemoAPI.pdb
+C:\Projects\QFDemoAPI\QFDemoAPITests\obj\Debug\netcoreapp2.1\QFDemoAPITests.csprojAssemblyReference.cache
+C:\Projects\QFDemoAPI\QFDemoAPITests\obj\Debug\netcoreapp2.1\QFDemoAPITests.csproj.CoreCompileInputs.cache
+C:\Projects\QFDemoAPI\QFDemoAPITests\obj\Debug\netcoreapp2.1\QFDemoAPITests.AssemblyInfoInputs.cache
+C:\Projects\QFDemoAPI\QFDemoAPITests\obj\Debug\netcoreapp2.1\QFDemoAPITests.AssemblyInfo.cs
+C:\Projects\QFDemoAPI\QFDemoAPITests\obj\Debug\netcoreapp2.1\QFDemoAPITests.csproj.CopyComplete
+C:\Projects\QFDemoAPI\QFDemoAPITests\bin\Debug\netcoreapp2.1\QFDemoAPITests.pdb
+C:\Projects\QFDemoAPI\QFDemoAPITests\obj\Debug\netcoreapp2.1\QFDemoAPITests.dll
+C:\Projects\QFDemoAPI\QFDemoAPITests\obj\Debug\netcoreapp2.1\QFDemoAPITests.pdb

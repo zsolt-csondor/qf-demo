@@ -1,0 +1,14 @@
+C:\Projects\QFDemoAPI\QFDemoAPI\bin\Debug\netcoreapp2.1\QFDemoAPI.deps.json
+C:\Projects\QFDemoAPI\QFDemoAPI\bin\Debug\netcoreapp2.1\QFDemoAPI.runtimeconfig.json
+C:\Projects\QFDemoAPI\QFDemoAPI\bin\Debug\netcoreapp2.1\QFDemoAPI.runtimeconfig.dev.json
+C:\Projects\QFDemoAPI\QFDemoAPI\bin\Debug\netcoreapp2.1\QFDemoAPI.dll
+C:\Projects\QFDemoAPI\QFDemoAPI\obj\Debug\netcoreapp2.1\QFDemoAPI.csproj.CoreCompileInputs.cache
+C:\Projects\QFDemoAPI\QFDemoAPI\obj\Debug\netcoreapp2.1\QFDemoAPI.RazorAssemblyInfo.cache
+C:\Projects\QFDemoAPI\QFDemoAPI\obj\Debug\netcoreapp2.1\QFDemoAPI.RazorAssemblyInfo.cs
+C:\Projects\QFDemoAPI\QFDemoAPI\obj\Debug\netcoreapp2.1\QFDemoAPI.AssemblyInfoInputs.cache
+C:\Projects\QFDemoAPI\QFDemoAPI\obj\Debug\netcoreapp2.1\QFDemoAPI.AssemblyInfo.cs
+C:\Projects\QFDemoAPI\QFDemoAPI\obj\Debug\netcoreapp2.1\QFDemoAPI.RazorTargetAssemblyInfo.cache
+C:\Projects\QFDemoAPI\QFDemoAPI\bin\Debug\netcoreapp2.1\QFDemoAPI.pdb
+C:\Projects\QFDemoAPI\QFDemoAPI\obj\Debug\netcoreapp2.1\QFDemoAPI.dll
+C:\Projects\QFDemoAPI\QFDemoAPI\obj\Debug\netcoreapp2.1\QFDemoAPI.pdb
+C:\Projects\QFDemoAPI\QFDemoAPI\obj\Debug\netcoreapp2.1\QFDemoAPI.csprojAssemblyReference.cache
